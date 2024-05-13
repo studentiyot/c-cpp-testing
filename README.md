@@ -1,2 +1,2 @@
 # c-cpp-testing
- Repo to demo GitHub codespaces, coding in C with Vscode, managing permissions, and various environment setups.
+Testing GitHub codespaces, coding in C w/ Visual Studio, managing permissions, and various environment setups.

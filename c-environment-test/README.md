@@ -1,2 +1,2 @@
 # c-environment-test
-new rep to demo github codespace; coding in c with vscode in a web browser.
+Testing C and CPP permissions and environment setup in Visual Studio and other IDEs.
